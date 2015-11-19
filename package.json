@@ -1,0 +1,21 @@
+{
+  "name": "freehenquet",
+  "version": "0.0.0",
+  "description": "A website about Henquetjes laten.",
+  "repository": "git@github.com:spaceoverflow/freehenquet.git",
+  "private": true,
+  "author": "Space Overflow",
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.1.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1",
+    "react": "^0.14.2"
+  }
+}
